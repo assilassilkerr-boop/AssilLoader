@@ -1,0 +1,24 @@
+# Build artifacts 
+build/ 
+*.o 
+*.bin 
+*.img 
+*.elf 
+ 
+# Final OS images 
+assiloader-image.bin 
+os-image.bin 
+ 
+# Temporary files 
+*.tmp 
+*.log 
+*~ 
+*.swp 
+ 
+# Windows specific 
+Thumbs.db 
+desktop.ini 
+ 
+# IDE files 
+.vscode/ 
+.idea/ 
